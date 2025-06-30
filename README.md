@@ -3,4 +3,3 @@
 <hr>
 示例：
 <code>&lt;p id="tohis"&gt;&lt;/p&gt;</code>
-
