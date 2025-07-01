@@ -18,6 +18,20 @@
 <code>&lt;script src="scripts/tohis.js"&gt;&lt;/script&gt;</code>
 
 <hr>
-完整代码：
-```html
-```
+完整代码：<br><br>
+
+~~~
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>历史上的今天</title>
+</head>
+
+<body>
+    <p id="tohis"></p>
+    <script src="https://cdn.jsdelivr.net/gh/softosdev/history-today/tohis.js"></script>
+</body>
+
+</html>
